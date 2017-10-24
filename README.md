@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SoderstromViewTool::Renderer.copyright 'Shane Soderstrom', 'All rights reserved'
+```
 
 ## Development
 
